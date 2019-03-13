@@ -24,6 +24,7 @@ class ViewController: UIViewController, UITextFieldDelegate, UITextViewDelegate 
     var str : String?
     override func viewDidLoad() {
         super.viewDidLoad()
+        title = "Login Form"
         
         // we can also set delegate using storyboard which click corresponding textfield and right click select delegate link to viewcontroller
 //        appleID.delegate = self
@@ -40,7 +41,6 @@ class ViewController: UIViewController, UITextFieldDelegate, UITextViewDelegate 
     }
     //put these after viewDidLoad()
     func textFieldDidBeginEditing(_ textField: UITextField) {
-        
     }
     
     func textFieldDidEndEditing(_ textField: UITextField) {
