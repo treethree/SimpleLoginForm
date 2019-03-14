@@ -15,6 +15,7 @@
 		2F4C21C522371D14000CFDD3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4C21C422371D14000CFDD3 /* SecondViewController.swift */; };
 		2FE74DAC2239603E0062BBC9 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DAB2239603E0062BBC9 /* ThirdViewController.swift */; };
 		2FE74DAE2239757C0062BBC9 /* ForthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DAD2239757C0062BBC9 /* ForthViewController.swift */; };
+		2FE74DB02239AD630062BBC9 /* ObjectDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DAF2239AD630062BBC9 /* ObjectDataSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2F4C21C422371D14000CFDD3 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		2FE74DAB2239603E0062BBC9 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		2FE74DAD2239757C0062BBC9 /* ForthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForthViewController.swift; sourceTree = "<group>"; };
+		2FE74DAF2239AD630062BBC9 /* ObjectDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				2F4C21BE2237107C000CFDD3 /* Info.plist */,
 				2FE74DAB2239603E0062BBC9 /* ThirdViewController.swift */,
 				2FE74DAD2239757C0062BBC9 /* ForthViewController.swift */,
+				2FE74DAF2239AD630062BBC9 /* ObjectDataSource.swift */,
 			);
 			path = SimpleLoginForm;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F4C21C522371D14000CFDD3 /* SecondViewController.swift in Sources */,
+				2FE74DB02239AD630062BBC9 /* ObjectDataSource.swift in Sources */,
 				2F4C21B52237107A000CFDD3 /* ViewController.swift in Sources */,
 				2FE74DAC2239603E0062BBC9 /* ThirdViewController.swift in Sources */,
 				2F4C21B32237107A000CFDD3 /* AppDelegate.swift in Sources */,
