@@ -13,9 +13,15 @@
 		2F4C21BA2237107C000CFDD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F4C21B92237107C000CFDD3 /* Assets.xcassets */; };
 		2F4C21BD2237107C000CFDD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F4C21BB2237107C000CFDD3 /* LaunchScreen.storyboard */; };
 		2F4C21C522371D14000CFDD3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4C21C422371D14000CFDD3 /* SecondViewController.swift */; };
+		2FB0A94F223FE05A00750142 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB0A94E223FE05A00750142 /* FifthViewController.swift */; };
+		2FB0A951223FEAFD00750142 /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB0A950223FEAFD00750142 /* SixthViewController.swift */; };
+		2FB0A9532240233E00750142 /* SeventhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB0A9522240233E00750142 /* SeventhViewController.swift */; };
+		2FE12E0B223C45BF0005F10B /* AnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE12E0A223C45BF0005F10B /* AnimationViewController.swift */; };
 		2FE74DAC2239603E0062BBC9 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DAB2239603E0062BBC9 /* ThirdViewController.swift */; };
 		2FE74DAE2239757C0062BBC9 /* ForthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DAD2239757C0062BBC9 /* ForthViewController.swift */; };
 		2FE74DB02239AD630062BBC9 /* ObjectDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DAF2239AD630062BBC9 /* ObjectDataSource.swift */; };
+		2FE74DB4223AAF1A0062BBC9 /* PersonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DB3223AAF1A0062BBC9 /* PersonTableViewCell.swift */; };
+		2FE74DB8223ADDD70062BBC9 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FE74DB7223ADDD70062BBC9 /* Book.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,9 +33,15 @@
 		2F4C21BC2237107C000CFDD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F4C21BE2237107C000CFDD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F4C21C422371D14000CFDD3 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		2FB0A94E223FE05A00750142 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		2FB0A950223FEAFD00750142 /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
+		2FB0A9522240233E00750142 /* SeventhViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeventhViewController.swift; sourceTree = "<group>"; };
+		2FE12E0A223C45BF0005F10B /* AnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationViewController.swift; sourceTree = "<group>"; };
 		2FE74DAB2239603E0062BBC9 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		2FE74DAD2239757C0062BBC9 /* ForthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForthViewController.swift; sourceTree = "<group>"; };
 		2FE74DAF2239AD630062BBC9 /* ObjectDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectDataSource.swift; sourceTree = "<group>"; };
+		2FE74DB3223AAF1A0062BBC9 /* PersonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonTableViewCell.swift; sourceTree = "<group>"; };
+		2FE74DB7223ADDD70062BBC9 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,12 +78,18 @@
 				2F4C21B22237107A000CFDD3 /* AppDelegate.swift */,
 				2F4C21B42237107A000CFDD3 /* ViewController.swift */,
 				2F4C21B62237107A000CFDD3 /* Main.storyboard */,
+				2FE74DB7223ADDD70062BBC9 /* Book.swift */,
 				2F4C21B92237107C000CFDD3 /* Assets.xcassets */,
 				2F4C21BB2237107C000CFDD3 /* LaunchScreen.storyboard */,
 				2F4C21BE2237107C000CFDD3 /* Info.plist */,
 				2FE74DAB2239603E0062BBC9 /* ThirdViewController.swift */,
+				2FE74DB3223AAF1A0062BBC9 /* PersonTableViewCell.swift */,
 				2FE74DAD2239757C0062BBC9 /* ForthViewController.swift */,
 				2FE74DAF2239AD630062BBC9 /* ObjectDataSource.swift */,
+				2FE12E0A223C45BF0005F10B /* AnimationViewController.swift */,
+				2FB0A94E223FE05A00750142 /* FifthViewController.swift */,
+				2FB0A950223FEAFD00750142 /* SixthViewController.swift */,
+				2FB0A9522240233E00750142 /* SeventhViewController.swift */,
 			);
 			path = SimpleLoginForm;
 			sourceTree = "<group>";
@@ -147,11 +165,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FB0A94F223FE05A00750142 /* FifthViewController.swift in Sources */,
+				2FE74DB8223ADDD70062BBC9 /* Book.swift in Sources */,
+				2FB0A9532240233E00750142 /* SeventhViewController.swift in Sources */,
 				2F4C21C522371D14000CFDD3 /* SecondViewController.swift in Sources */,
 				2FE74DB02239AD630062BBC9 /* ObjectDataSource.swift in Sources */,
+				2FB0A951223FEAFD00750142 /* SixthViewController.swift in Sources */,
 				2F4C21B52237107A000CFDD3 /* ViewController.swift in Sources */,
 				2FE74DAC2239603E0062BBC9 /* ThirdViewController.swift in Sources */,
 				2F4C21B32237107A000CFDD3 /* AppDelegate.swift in Sources */,
+				2FE12E0B223C45BF0005F10B /* AnimationViewController.swift in Sources */,
+				2FE74DB4223AAF1A0062BBC9 /* PersonTableViewCell.swift in Sources */,
 				2FE74DAE2239757C0062BBC9 /* ForthViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
